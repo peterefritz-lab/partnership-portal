@@ -4,7 +4,5 @@
 window.PORTAL_CONFIG = {
   supabaseUrl: "https://xlcnrrtwunvxnjzvcpdy.supabase.co",      // e.g. https://abcdefghijkl.supabase.co
   supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhsY25ycnR3dW52eG5qenZjcGR5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTU3Mzk3MDUsImV4cCI6MjExMTMxNTcwNX0.1Mawyjry4pqfY_V3irYOLBzl0uVNv6brqzqT0gBpCKE",     // Project Settings > API > anon / publishable key
-  mapUrl: "https://peterefritz-lab.github.io/sd-site-map/",
-  reviewMapUrl: "https://peterefritz-lab.github.io/sd-site-map/test/",
   syncMapUrl: "https://peterefritz-lab.github.io/sd-site-map/sync/"
 };
